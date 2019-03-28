@@ -1,3 +1,5 @@
+# '#{}' nous permet de faire un calcul et de faire ressortir le resultat quand on eecute le programme, on peut egalement comparer un resultat a l interieur
+
 puts "On va compter le nombre d'heures de travail à THP"
 puts "Travail : #{10 * 5 * 11}"
 #on calcule le nombres d'heures en multipliant
