@@ -1,0 +1,4 @@
+chomp retire le \n
+a: demande d'entrer son nom puis affiche ce qu'a rentrer l'utilisateur
+b: demande d'entrer son nom puis affiche un >
+c: on attend que l utilisateur rentre quelque chose, et le programme repete ce qui est entre
